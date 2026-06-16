@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(220, 231, 232);
+    text-align: center;
+}
+h2{
+    color: black;
+    box-shadow: 3px,rgb(225, 55, 55);
+    background-color: aqua;
+    border-radius: 50px;
+    padding: 60px;
+
+}
+p{
+    background-color: rgb(255, 0, 225);
+    color:black;
+    border-radius: 50px;
+
+}
+h1{
+    color: orange;
+}
+img{
+    height: 260;
+    width: 260;
+    border-radius: 60%;
+}
